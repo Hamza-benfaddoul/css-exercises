@@ -1,0 +1,15 @@
+.click__me,
+.no__click__me {
+	font-family: 'Helvetica' , 'Times New Roman', Times, serif;
+	font-size: 28px;
+}
+
+
+.click__me {
+	background-color: #000;
+	color: #fff;
+}
+
+.no__click__me {
+	background-color: #ffff00;
+}
